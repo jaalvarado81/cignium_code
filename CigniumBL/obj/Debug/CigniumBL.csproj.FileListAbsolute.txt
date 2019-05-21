@@ -1,0 +1,7 @@
+c:\users\javier\documents\visual studio 2015\Projects\Cignium\CigniumBL\bin\Debug\CigniumBL.dll
+c:\users\javier\documents\visual studio 2015\Projects\Cignium\CigniumBL\bin\Debug\CigniumBL.pdb
+c:\users\javier\documents\visual studio 2015\Projects\Cignium\CigniumBL\bin\Debug\CigniumBE.dll
+c:\users\javier\documents\visual studio 2015\Projects\Cignium\CigniumBL\bin\Debug\CigniumBE.pdb
+c:\users\javier\documents\visual studio 2015\Projects\Cignium\CigniumBL\obj\Debug\CigniumBL.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2015\Projects\Cignium\CigniumBL\obj\Debug\CigniumBL.dll
+c:\users\javier\documents\visual studio 2015\Projects\Cignium\CigniumBL\obj\Debug\CigniumBL.pdb

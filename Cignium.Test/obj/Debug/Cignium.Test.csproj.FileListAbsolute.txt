@@ -1,0 +1,10 @@
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Cignium\Cignium.Test\obj\Debug\Cignium.Test.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Cignium\Cignium.Test\bin\Debug\Cignium.Test.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Cignium\Cignium.Test\bin\Debug\Cignium.Test.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Cignium\Cignium.Test\bin\Debug\CigniumBE.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Cignium\Cignium.Test\bin\Debug\CigniumBL.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Cignium\Cignium.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Cignium\Cignium.Test\bin\Debug\CigniumBE.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Cignium\Cignium.Test\bin\Debug\CigniumBL.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Cignium\Cignium.Test\obj\Debug\Cignium.Test.dll
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Cignium\Cignium.Test\obj\Debug\Cignium.Test.pdb

@@ -1,0 +1,4 @@
+c:\users\javier\documents\visual studio 2015\Projects\Cignium\CigniumBE\bin\Debug\CigniumBE.dll
+c:\users\javier\documents\visual studio 2015\Projects\Cignium\CigniumBE\bin\Debug\CigniumBE.pdb
+c:\users\javier\documents\visual studio 2015\Projects\Cignium\CigniumBE\obj\Debug\CigniumBE.dll
+c:\users\javier\documents\visual studio 2015\Projects\Cignium\CigniumBE\obj\Debug\CigniumBE.pdb
